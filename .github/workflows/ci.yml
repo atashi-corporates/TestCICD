@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - dev
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Check HTML files
+        run: |
+          test -f index.html
+          test -f about.html
+          test -f books.html
+          test -f categories.html
+          test -f library-rules.html
+
+      - name: Check CSS
+        run: |
+          test -f css/style.css
+
+      - name: Check XML
+        run: |
+          test -f xml/books.xml
+          test -f xml/categories.xml
+          test -f xml/library.xml
+
+      - name: CI completed
+        run: echo "CI checks passed successfully!"
