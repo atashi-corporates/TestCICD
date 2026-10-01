@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryInformation>
+ <name>Smart College Library</name><location>College Academic Building</location>
+ <timings><weekday>Monday - Saturday</weekday><opening>09:00 AM</opening><closing>06:00 PM</closing></timings>
+ <contact><email>library@college.example</email><phone>+91-00000-00000</phone></contact>
+ <facilities><facility>Academic book collection</facility><facility>Technology resources</facility><facility>Quiet reading area</facility><facility>Reference section</facility></facilities>
+</libraryInformation>

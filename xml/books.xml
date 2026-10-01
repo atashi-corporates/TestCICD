@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+ <book id="B001"><title>Java: The Complete Reference</title><author>Herbert Schildt</author><category>Programming</category><publisher>McGraw Hill</publisher><year>2021</year><status>Available</status></book>
+ <book id="B002"><title>Python Crash Course</title><author>Eric Matthes</author><category>Programming</category><publisher>No Starch Press</publisher><year>2019</year><status>Available</status></book>
+ <book id="B003"><title>Learning SQL</title><author>Alan Beaulieu</author><category>Database</category><publisher>O'Reilly Media</publisher><year>2020</year><status>Issued</status></book>
+ <book id="B004"><title>HTML and CSS</title><author>Jon Duckett</author><category>Web Development</category><publisher>Wiley</publisher><year>2018</year><status>Available</status></book>
+ <book id="B005"><title>Artificial Intelligence</title><author>Stuart Russell</author><category>AI &amp; Machine Learning</category><publisher>Pearson</publisher><year>2021</year><status>Issued</status></book>
+ <book id="B006"><title>Clean Code</title><author>Robert C. Martin</author><category>Programming</category><publisher>Prentice Hall</publisher><year>2008</year><status>Available</status></book>
+ <book id="B007"><title>Database System Concepts</title><author>Abraham Silberschatz</author><category>Database</category><publisher>McGraw Hill</publisher><year>2019</year><status>Available</status></book>
+ <book id="B008"><title>Computer Networks</title><author>Andrew S. Tanenbaum</author><category>Networking</category><publisher>Pearson</publisher><year>2018</year><status>Available</status></book>
+</library>

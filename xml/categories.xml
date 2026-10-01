@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+ <category id="C01"><name>Programming</name><subjects><subject>Java</subject><subject>Python</subject><subject>C</subject><subject>C++</subject><subject>OOP</subject></subjects></category>
+ <category id="C02"><name>Web Development</name><subjects><subject>HTML</subject><subject>CSS</subject><subject>Web Design</subject></subjects></category>
+ <category id="C03"><name>Database</name><subjects><subject>SQL</subject><subject>Oracle</subject><subject>MongoDB</subject><subject>DBMS</subject></subjects></category>
+ <category id="C04"><name>AI &amp; Machine Learning</name><subjects><subject>AI</subject><subject>ML</subject><subject>Data Science</subject></subjects></category>
+</categories>
